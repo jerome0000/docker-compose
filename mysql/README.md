@@ -4,6 +4,9 @@
 > up
 `docker-compose up -d`
 
+> remove
+`docker-compose down`
+
 > stop
 `docker-compose stop`
 
